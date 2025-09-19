@@ -6,6 +6,8 @@
 
 ### Pins
 [![Readme Card](https://github-readme-stats-cryptogrounds-projects.vercel.app/api/pin/?username=cryptogrounds&repo=considera-compilers)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats-cryptogrounds-projects.vercel.app/api/pin/?username=cryptogrounds&repo=considera-engine)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats-cryptogrounds-projects.vercel.app/api/pin/?username=cryptogrounds&repo=considera-dev)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **cryptogrounds/cryptogrounds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
