@@ -1,6 +1,6 @@
 ## Considera
 
-![Considera's GitHub stats](https://github-readme-stats-cryptogrounds-projects.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Considera's GitHub stats](https://github-readme-stats-cryptogrounds-projects.vercel.app/api?username=cryptogrounds&show_icons=true&theme=radical)
 
 
 <!--
