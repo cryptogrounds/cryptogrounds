@@ -1,11 +1,10 @@
 ## Considera
 
-<details>
 <summary>
   Stats
 </summary>
-  [![Anurag's GitHub stats](https://github-readme-stats-qvdydai3m-cryptogrounds-projects.vercel.app/api?username=cryptogrounds)](https://github.com/anuraghazra/github-readme-stats)
-</details>
+  [![Anurag's GitHub stats](https://github-readme-stats-cryptogrounds-projects.vercel.app/api?username=cryptogrounds)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **cryptogrounds/cryptogrounds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
