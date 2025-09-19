@@ -1,6 +1,7 @@
 ## Considera
 
-![Considera's GitHub stats](https://github-readme-stats-cryptogrounds-projects.vercel.app/api?username=cryptogrounds&show_icons=true&theme=radical)
+
+![Stats](https://github-readme-stats-cryptogrounds-projects.vercel.app/api?username=cryptogrounds&show_icons=true&theme=synthwave&include_all_commits=true&number_format=long&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
 <!--
