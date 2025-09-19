@@ -1,9 +1,6 @@
 ## Considera
 
-<summary>
-  Stats
-</summary>
-  [![Anurag's GitHub stats](https://github-readme-stats-cryptogrounds-projects.vercel.app/api?username=cryptogrounds)](https://github.com/anuraghazra/github-readme-stats)
+![Considera's GitHub stats](https://github-readme-stats-cryptogrounds-projects.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 <!--
