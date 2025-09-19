@@ -1,10 +1,12 @@
 ## Considera
 
-
-[![CG's GitHub stats](https://github-readme-stats-cryptogrounds-projects.vercel.app/api?username=cryptogrounds&show_icons=true&theme=synthwave&include_all_commits=true&number_format=long&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/cryptogrounds/github-readme-stats)
-
-<img align="center" alt="alt" src="https://github-readme-stats-cryptogrounds-projects.vercel.app/api?username=cryptogrounds&show_icons=true&theme=synthwave&include_all_commits=true&number_format=long&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="github-readme-stats-cryptogrounds-projects.vercel.app/api?username=cryptogrounds" />
+  <img height=200 align="center" src="github-readme-stats-tau-silk-14.vercel.app/api?username=cryptogrounds" />
+</a>
+<a href="https://github.com/cryptogrounds/considera-musique-hub">
+  <img height=200 align="center" src="https://github-readme-stats-cryptogrounds-projects.vercel.app/api/top-langs?username=cryptogrounds&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <!--
 **cryptogrounds/cryptogrounds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
